@@ -5,9 +5,9 @@ Bu proje, öğrencilerin derslere kaydedilmesini, ders bilgilerini yönetmeyi ve
 
 Özellikler
 
-1)Ders Yönetimi:
+Ders Yönetimi:
 
-Yeni ders eklenebilir.
+1)Yeni ders eklenebilir.
 Her ders için ders adı, kredisi ve öğretmeni tanımlanabilir.
 Derslere kayıtlı öğrenciler listelenebilir.
 

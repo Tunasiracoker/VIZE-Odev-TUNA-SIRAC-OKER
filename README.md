@@ -11,11 +11,11 @@ Yeni ders eklenebilir.
 Her ders için ders adı, kredisi ve öğretmeni tanımlanabilir.
 Derslere kayıtlı öğrenciler listelenebilir.
 
-2=Öğrenci Yönetimi:
+2)Öğrenci Yönetimi:
 Derslere öğrenci kaydı yapılabilir.
 Her öğrenci için ad-soyad, e-posta ve öğrenci numarası girilebilir.
 
-3=Listeleme:
+3)Listeleme:
 Tüm dersler ve kayıtlı öğrenciler detaylı şekilde görüntülenebilir.
 
 4)Kullanıcı Girişi:
